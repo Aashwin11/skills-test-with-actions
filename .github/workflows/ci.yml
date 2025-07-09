@@ -1,4 +1,4 @@
-name: Run markdown lint
+name: "Run markdown lint"
 on: 
   push:
     branches: main
